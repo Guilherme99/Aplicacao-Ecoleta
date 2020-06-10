@@ -13,8 +13,10 @@ Esta aplicação está desenvolvida em:
 
 1. Git Clone na URL do projeto
 
-2. Entre na pasta
+2. Entre nas respectivas pastas
 
-3. Yarn Start para aplicaçāo web
+3. Execute para iniciar aplicaçāo web:
+> Yarn Start 
 
-4. Npm run dev para backend
+4. Na pasta "Server", execute para iniciar o server backend: 
+> Npm run dev 
