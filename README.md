@@ -1,4 +1,4 @@
-# Aplicacao-Ecoleta
+# Aplicacao-Ecoleta WEB
 Aplicação em desenvolvimento na semana NLW-Rocketseat.
 
 # Sobre
