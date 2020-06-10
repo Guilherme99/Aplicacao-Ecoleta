@@ -2,8 +2,3 @@
 
 # dependencies
 /Server/node_modules
-/Server/anotacoes.txt
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
