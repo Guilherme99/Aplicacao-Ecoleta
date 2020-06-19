@@ -13,10 +13,28 @@ Esta aplicação está desenvolvida em:
 
 1. Git Clone na URL do projeto
 
-2. Entre nas respectivas pastas
+# Executando a aplicação
 
-3. Execute para iniciar aplicaçāo web:
-> Yarn Start 
+## Iniciando o servidor
 
-4. Na pasta "Server", execute para iniciar o server backend: 
-> Npm run dev 
+ Abra o terminal na raiz do server e execute: 
+
+> npm install
+
+### Em seguida:
+
+1. npm run knex:migrate
+2. npm run knex:seed
+3. npm run dev
+
+## Iniciando o front
+  Entre na pasta raiz da web e inicie o servidor:
+  
+> npm install
+
+### Por fim:
+> yarn start
+
+
+# Aplicação está pronta.
+
